@@ -1,4 +1,4 @@
-name: a workflow
+name: Print env:MY_NAME to workflow std out.
 on: push
 
 jobs:
