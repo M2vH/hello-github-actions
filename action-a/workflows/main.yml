@@ -1,4 +1,4 @@
-name: a workflow
+name: Echo env:My_NAME on std out.
 on: push
 
 jobs:
